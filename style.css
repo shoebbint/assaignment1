@@ -1,0 +1,35 @@
+h1{
+    font-size:70px;
+    border-left:cyan solid 5px;
+
+    padding-left:10px;
+}
+p{
+    margin-bottom: 8%;
+}
+#color{
+    color:gold;
+}
+.flex{
+
+    display:flex;
+    padding-top: 5%;
+}
+.coloumn-width{
+           width:40%;
+           padding-left:10%;
+}
+.coloumn-width img{
+    width:80%;
+}
+.button{
+    text-decoration: none;
+    background-color: turquoise;
+    background-image:linear-gradient(blue cyan);
+    padding: 15px 25px;
+    margin-top: 10%;
+    border-radius: 8px;
+    color: white;
+    font-weight: 800;
+
+}
